@@ -14,6 +14,9 @@
 [Baskerville 6](https://annaletman123.github.io/john_baskerville/baskerville6.html)
 
 
+[Baskerville 7](https://annaletman123.github.io/john_baskerville/baskerville7.html)
+
+
 # History of Type
 
 [History of Type 1](https://annaletman123.github.io/john_baskerville/historyoftype.html)
@@ -23,3 +26,5 @@
 [History of Type 3](https://annaletman123.github.io/john_baskerville/historyoftype3table.html)
 
 [History of Type 4](https://annaletman123.github.io/john_baskerville/historyoftype4.html)
+
+[History of Type 5](https://annaletman123.github.io/john_baskerville/historyoftype5.html)
